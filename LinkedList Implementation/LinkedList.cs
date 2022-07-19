@@ -77,5 +77,25 @@ namespace LinkedList_Implementation
             }
             Console.WriteLine();
         }
+        public void Add(int val,int index)
+        {
+            Node previousNode = head;
+            Node currentNode = previousNode.link;
+            int count = 0;
+            while (currentNode != null)
+            {
+                if (count==index)
+                {
+                    Node n = new Node();
+                    n.val = val;
+                    n.link = currentNode;
+                    previousNode.link = n;
+                    break;
+                }
+                previousNode = currentNode;
+                currentNode = currentNode.link;
+                count++;
+            }
+        }
     }
 }

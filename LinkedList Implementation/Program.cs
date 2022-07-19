@@ -28,6 +28,8 @@ namespace LinkedList_Implementation
             linkedList.Display();
             linkedList.Remove(1);
             linkedList.Display();
+            linkedList.Add(8, 2);
+            linkedList.Display();
             Console.ReadLine();
         }
     }
