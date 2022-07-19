@@ -1,0 +1,8 @@
+D:\.net projects\LinkedList Implementation\LinkedList Implementation\bin\Debug\LinkedList Implementation.exe.config
+D:\.net projects\LinkedList Implementation\LinkedList Implementation\bin\Debug\LinkedList Implementation.exe
+D:\.net projects\LinkedList Implementation\LinkedList Implementation\bin\Debug\LinkedList Implementation.pdb
+D:\.net projects\LinkedList Implementation\LinkedList Implementation\obj\Debug\LinkedList Implementation.csproj.AssemblyReference.cache
+D:\.net projects\LinkedList Implementation\LinkedList Implementation\obj\Debug\LinkedList Implementation.csproj.SuggestedBindingRedirects.cache
+D:\.net projects\LinkedList Implementation\LinkedList Implementation\obj\Debug\LinkedList Implementation.csproj.CoreCompileInputs.cache
+D:\.net projects\LinkedList Implementation\LinkedList Implementation\obj\Debug\LinkedList Implementation.exe
+D:\.net projects\LinkedList Implementation\LinkedList Implementation\obj\Debug\LinkedList Implementation.pdb
